@@ -35,6 +35,16 @@ The objective is to:
 - **Language:** SQL (CTEs, Window Functions, Aggregations)  
 
 ---
+## 📊 Dataset
+The dataset used for this project is publicly available:
+
+🔗 [Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
+
+This dataset contains transactional data including:
+- Invoice details  
+- Customer IDs  
+- Purchase quantities  
+- Pricing and country information  
 
 ---
 
